@@ -13,3 +13,6 @@ class HomeProductCardListButtonEvent extends HomeEvent{
 class HomeWishListButtonNavigationClickedEvent extends HomeEvent{
 
 }
+class HomeCartButtonNavigateEvent extends HomeEvent{
+
+}
